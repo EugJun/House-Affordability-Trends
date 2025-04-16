@@ -1,4 +1,4 @@
-### 🏠 Housing Affordability Trends in California (2017 vs. 2022)
+# 🏠 Housing Affordability Trends in California (2017 vs. 2022)
 This project explores the ongoing housing affordability crisis in California by analyzing public microdata from the American Community Survey (ACS) for the years 2017 and 2022. The study focuses on how financial status, demographic factors, and essential costs (like rent and mortgage) impact the ability of residents to afford housing.
 
 ## ⚠️ This project was originally built using Excel for trend visualization. I attempted to replicate and extend it using code, but the results and visualizations vary due to differences in tools and methods.
